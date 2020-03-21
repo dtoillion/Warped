@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 09f06ebb92539df4bbbeea4e638882c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5744814087623208696
+    second: Warped-TileSet_0
+  - first:
+      213: 7031080152003059895
+    second: Warped-TileSet_1
+  - first:
+      213: -658620604854517675
+    second: Warped-TileSet_2
+  - first:
+      213: 3797656741934746865
+    second: Warped-TileSet_3
+  - first:
+      213: -627158149454064022
+    second: Warped-TileSet_4
+  - first:
+      213: -5645443034398420567
+    second: Warped-TileSet_5
+  - first:
+      213: 4181371609056120031
+    second: Warped-TileSet_6
+  - first:
+      213: 2013858692919972657
+    second: Warped-TileSet_7
+  - first:
+      213: -2937812766031080001
+    second: Warped-TileSet_8
+  - first:
+      213: -6827094724577620419
+    second: Warped-TileSet_9
+  - first:
+      213: -1671093235753083275
+    second: Warped-TileSet_10
+  - first:
+      213: 152631860418655026
+    second: Warped-TileSet_11
+  - first:
+      213: 7996281674128263762
+    second: Warped-TileSet_12
+  - first:
+      213: 1632159259879047998
+    second: Warped-TileSet_13
+  - first:
+      213: -4084827511905112424
+    second: Warped-TileSet_14
+  - first:
+      213: 5400999597771339913
+    second: Warped-TileSet_15
+  - first:
+      213: 989880826536548786
+    second: Warped-TileSet_16
+  - first:
+      213: 7803845558141614996
+    second: Warped-TileSet_17
+  - first:
+      213: -6013002879032693103
+    second: Warped-TileSet_18
+  - first:
+      213: -598189674497168795
+    second: Warped-TileSet_19
+  - first:
+      213: 7829739154818476086
+    second: Warped-TileSet_20
+  - first:
+      213: 5166911187134394956
+    second: Warped-TileSet_21
+  - first:
+      213: 3127104153882565518
+    second: Warped-TileSet_22
+  - first:
+      213: 7754641060455950176
+    second: Warped-TileSet_23
+  - first:
+      213: -1941697041623354381
+    second: Warped-TileSet_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warped-TileSet_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 810
+        width: 68
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeacf758c2421343905067cd09599d8
+      internalID: 5744814087623208696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 743
+        width: 203
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb447343b3b26e3439802b165df12a87
+      internalID: 7031080152003059895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 810
+        width: 68
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523b218c102305941a8de71f12c35eb1
+      internalID: -658620604854517675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 743
+        width: 135
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4905025e06f30984f899cf3579303878
+      internalID: 3797656741934746865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_4
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 743
+        width: 67
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99606d7667693f46b1eeea33c6a96af
+      internalID: -627158149454064022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 789
+        width: 131
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5229c22d3cde48a5064e443dc2779
+      internalID: -5645443034398420567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_6
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 743
+        width: 135
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7f642ba9c59364d8f4a26f6b71aebc
+      internalID: 4181371609056120031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_7
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 945
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443cec47d682914cafe45275cbd1e74
+      internalID: 2013858692919972657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 67
+        height: 748
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677167f9af48f842bd62571802d51b9
+      internalID: -2937812766031080001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 473
+        width: 67
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec60f2e90f0c0448b36a101c5303214
+      internalID: -6827094724577620419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 405
+        width: 135
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243702c4890865441b0c4c2d9aeec3d5
+      internalID: -1671093235753083275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 541
+        width: 202
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee9e4d5d97e57d44a5886cddd757a46
+      internalID: 152631860418655026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_12
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 418
+        width: 131
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd6bf1d3eb79b43a7fbd1d1880034f
+      internalID: 7996281674128263762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_13
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 540
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02ad505a50792347967cd3099e33b8f
+      internalID: 1632159259879047998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_14
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 540
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e54bd6aac9ff4a8f028b6908b6934
+      internalID: -4084827511905112424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_15
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 540
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2b53c2dca390c4c8d6d5d250c26f8b
+      internalID: 5400999597771339913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 270
+        width: 67
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d28cd57ccda9548b06dc78cb22fe5f
+      internalID: 989880826536548786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_17
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 338
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb2a97fa928c74cbdc9dc706060234
+      internalID: 7803845558141614996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 270
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd820b79b01a61e4a98274fd9311e09f
+      internalID: -6013002879032693103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_19
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 118
+        width: 114
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c0f285bb63b246a4baa7d1676eec2
+      internalID: -598189674497168795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_20
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 837
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f5c860573cf7d4aa96bcb53d7b44eb
+      internalID: 7829739154818476086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 18
+        width: 67
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7420bf58e5f9804abb97cd4fcf46d73
+      internalID: 5166911187134394956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18
+        width: 67
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680477634870c364fbb64440cb0229b5
+      internalID: 3127104153882565518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 152
+        width: 398
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d387edc008cc143ba790aff58f9dc2
+      internalID: 7754641060455950176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warped-TileSet_24
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 29
+        width: 602
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19b7d412f7206d4ab4ab2bed0315d99
+      internalID: -1941697041623354381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
